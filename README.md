@@ -1,6 +1,8 @@
 # About AuthPass
 
-This is eine Beispiel Seiteblubb
+Welcome to AuthPass, a standalone password manager :-\)
 
-![Lorem ipsum](.gitbook/assets/screenshot-2020-09-13-at-14.22.19.png)
+![](.gitbook/assets/samsung-galaxy-s10-plus-openfile2.png)
+
+
 

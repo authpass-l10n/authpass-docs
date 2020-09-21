@@ -20,3 +20,7 @@
 
 * [Installation on Linux](linux/installation-on-linux.md)
 
+## Windows
+
+* [Installation on Windows](windows/installation.md)
+

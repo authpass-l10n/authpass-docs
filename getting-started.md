@@ -10,6 +10,8 @@ Download and installation instructions for each platform:
 
 {% page-ref page="linux/installation-on-linux.md" %}
 
+{% page-ref page="windows/installation.md" %}
+
 
 
 
