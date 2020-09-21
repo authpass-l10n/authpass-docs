@@ -1,9 +1,22 @@
 # Table of contents
 
-* [Test Page](README.md)
-* [Second Page](second-page.md)
+* [About AuthPass](README.md)
+* [Getting started](getting-started.md)
 
-## Another group
+## Android
 
-* [Lorem](another-group/lorem.md)
+* [Installation on Android](android/installation-on-android.md)
+* [Autofill](android/lorem.md)
+
+## iPhone and iPad
+
+* [Installation on iOS](iphone-and-ipad/installation-on-ios.md)
+
+## MacOS
+
+* [Installation MacOS](macos/installation-macos.md)
+
+## Linux
+
+* [Installation on Linux](linux/installation-on-linux.md)
 
