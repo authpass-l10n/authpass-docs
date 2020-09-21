@@ -2,6 +2,8 @@
 
 * [About AuthPass](README.md)
 * [Getting started](getting-started.md)
+* [Creating Password Entries](creating-password-entries.md)
+* [Managing Groups](managing-groups.md)
 
 ## Android
 
