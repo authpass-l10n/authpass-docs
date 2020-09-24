@@ -2,23 +2,37 @@
 
 ## Installation using Snap
 
-{% hint style="warning" %}
-Make sure `snapd`\(the daemon behind snaps\) is running on your Linux distribution. The instructions to do so are documented [here](https://snapcraft.io/docs/installing-snapd).
-{% endhint %}
+> Snaps are app packages for desktop, cloud and IoT that are easy to install, secure, cross‐platform and dependency‐free. Snaps are discoverable and installable from the Snap Store, the app store for Linux with an audience of millions.
+>
+> Source: [https://snapcraft.io/about](https://snapcraft.io/about)
 
-Installing AuthPass on Linux is usually a 1-step process thanks to snap packages. You can install AuthPass using the Snap Store or run the following command in the terminal.
+We provide AuthPass on the [Snap Store](https://snapcraft.io/authpass). You can use the Snap Store or the Terminal.
+
+Refer to the following steps if using the Snap Store.
+
+* Search for AuthPass on the Snap Store or open the above link.
+* Install AuthPass by clicking the install button.
+
+Refer to the following steps if using the Terminal.
+
+* Install AuthPass using the `snap` package manager.
 
 ```text
 sudo snap install authpass
 ```
 
-> Snaps are app packages for desktop, cloud and IoT that are easy to install, secure, cross‐platform and dependency‐free. Snaps are discoverable and installable from the Snap Store, the app store for Linux with an audience of millions.
->
-> Source: [https://snapcraft.io/about](https://snapcraft.io/about)
+{% hint style="warning" %}
+Make sure `snapd` is running on your Linux distribution. The instructions to do so are documented [here](https://snapcraft.io/docs/installing-snapd).
+{% endhint %}
 
 ## Installation using PPA
 
-We provide a Personal Package Archive \(**PPA**\) for Ubuntu and other Debian-based distributions. Installing AuthPass is just a matter of adding the PPA and installing the package using `apt`.
+We provide AuthPass in a Personal Package Archive \(**PPA**\) for Ubuntu and other Debian-based distributions.
+
+Refer to the following steps if using the PPA.
+
+* Add our PPA to your system and update the package manager cache.
+* Install AuthPass using the `apt` package manager.
 
 ```text
 sudo add-apt-repository ppa:codeux.design/authpass
@@ -28,13 +42,15 @@ sudo apt-get install authpass
 
 ## Installation using source tarball
 
-{% hint style="danger" %}
-Using this method for installation is not recommended for a normal user. AuthPass updates such a security updates, bugfixes and new features will not be available easily.
+{% hint style="warning" %}
+Using this method for installation is not recommended for a normal user because AuthPass updates such a security updates, bug fixes and new features will not be available easily.
 {% endhint %}
 
-We also provide releases as source tarballs on [GitHub](https://github.com/authpass/authpass/releases). Refer to the following steps to use AuthPass from the source tarballs.
+We provide AuthPass as source tarballs on [GitHub](https://github.com/authpass/authpass/releases).
 
-* Download the latest release for Linux \(e.g., `authpass-linux-1.6.3_1201.tar.gz` \).
+Refer to the following steps if using the source tarballs.
+
+* Download the latest release for Linux from the above GitHub releases page \(e.g. `authpass-linux-1.7.8_1552.tar.gz`\).
 * Extract the downloaded file and launch AuthPass.
 
 ```text
@@ -46,8 +62,4 @@ authpass/authpass
 
 
 ## F.A.Q.
-
-{% hint style="info" %}
-Installing Authpass on Linux will also create `/usr/bin/authpass` if you need to run Authpass from the CLI.
-{% endhint %}
 
