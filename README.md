@@ -6,6 +6,10 @@ description: >-
 
 # AuthPass
 
+{% hint style="danger" %}
+This documentation is still a work in progress! If you want to help us create this documentation, [join us on discord](https://authpass.app/go/discord) or just [get in contact](https://authpass.app/docs/contact/).
+{% endhint %}
+
 ## About
 
 AuthPass is a stand alone password manager with support for the popular and proven [KeePass](https://keepass.info/help/base/index.html) password database format \(`kdbx 3.x` and `kdbx 4.x`\).
