@@ -9,7 +9,7 @@ description: >-
 {% hint style="danger" %}
 This documentation is still a work in progress! Check out he [current documentation](https://authpass.app/docs/), and [just ask questions in our forum, we are happy to help](https://forum.authpass.app/) ;-\)
 
- If you want to help us create this documentation [get in contact](https://authpass.app/docs/contact/).
+ If you want to help us create this documentation [get in contact](https://forum.authpass.app/c/documentation-authors/6).
 {% endhint %}
 
 ## About
