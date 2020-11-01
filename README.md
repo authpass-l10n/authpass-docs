@@ -24,14 +24,14 @@ By default, all your password databases will be stored on your local devices and
 
 ## Features
 
-* Truly cross-platform with releases available for 📱 Android, iOS, 💻 Windows, macOS, and even Linux.
+* Truly cross-platform with releases available for 📱 smartphones \(running Android or iOS\) and for 💻 computers \(running Windows, macOS and even Linux\).
 * Beautiful UI with dark-mode support written in Flutter.
 * Secure random password generator with variable number of characters.
 * Support for opening multiple password databases at the same time \(e.g. work and personal\).
-* Native support for storing of the password database in your own Google Drive, Dropbox, OneDrive and WebDAV.
+* Native support for storing of the password database in your own cloud storage \(Google Drive, Dropbox, OneDrive and WebDAV\).
 * Support for auto-filling your passwords \(currently only available on mobile releases on Android 9+\).
 * Bio-metric unlocking of the database \(currently only available on mobile releases\).
-* Completely open-source on [GitHub](https://github.com/authpass/authpass/).
+* AuthPath is fully open-source on [GitHub](https://github.com/authpass/authpass/).
 
 
 
