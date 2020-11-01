@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction to AuthPass](README.md)
-* [Getting Started](getting-started/README.md)
+* [Getting Started:  installation](getting-started/README.md)
   * [Android](getting-started/android.md)
   * [iOS](getting-started/ios.md)
   * [Windows](getting-started/windows.md)
