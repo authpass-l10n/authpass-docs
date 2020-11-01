@@ -1,10 +1,10 @@
 ---
 description: >-
-  Store, share and easily find your passwords across all your devices whenever
-  you need to login.
+  Store, find and share your passwords across all your devices whenever you need
+  to login.
 ---
 
-# AuthPass
+# Introduction to AuthPass
 
 {% hint style="danger" %}
 This documentation is still a work in progress! Check out he [current documentation](https://authpass.app/docs/), and [just ask questions in our forum, we are happy to help](https://forum.authpass.app/) ;-\)
@@ -22,16 +22,16 @@ AuthPass stores all your passwords encrypted using a primary passphrase. You nee
 
 By default, all your password databases will be stored on your local devices and will not be sent to any cloud server. This way you and no one else is in control of all your password databases.
 
-## Features
+## Main features
 
-* Truly cross-platform with releases available for 📱 Android, iOS, 💻 Windows, macOS, and even Linux.
+* Truly cross-platform with releases available for 📱 smartphones \(running Android or iOS\) and for 💻 computers \(running Windows, macOS and even Linux\).
 * Beautiful UI with dark-mode support written in Flutter.
 * Secure random password generator with variable number of characters.
 * Support for opening multiple password databases at the same time \(e.g. work and personal\).
-* Native support for storing of the password database in your own Google Drive, Dropbox, OneDrive and WebDAV.
+* Native support for storing and sharing password database in your own cloud storage \(Google Drive, Dropbox, OneDrive and WebDAV\).
 * Support for auto-filling your passwords \(currently only available on mobile releases on Android 9+\).
 * Bio-metric unlocking of the database \(currently only available on mobile releases\).
-* Completely open-source on [GitHub](https://github.com/authpass/authpass/).
+* AuthPath is fully open-source on [GitHub](https://github.com/authpass/authpass/).
 
 
 
