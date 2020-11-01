@@ -8,6 +8,6 @@
   * [macOS](getting-started/macos.md)
   * [Linux](getting-started/linux.md)
 * [How-To's](how-tos/README.md)
-  * [Managing Groups](how-tos/managing-groups.md)
   * [Creating Password Entries](how-tos/creating-password-entries.md)
+  * [Manage Groups](how-tos/managing-groups.md)
 

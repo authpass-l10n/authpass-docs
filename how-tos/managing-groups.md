@@ -1,2 +1,2 @@
-# Managing Groups
+# Manage Groups
 
