@@ -8,7 +8,7 @@
   * [macOS](getting-started/macos.md)
   * [Linux](getting-started/linux.md)
 * [How-To's](how-tos/README.md)
-  * [Creating a new password database](how-tos/creating-a-new-password-database.md)
+  * [Creating a new passwords database](how-tos/creating-a-new-password-database.md)
   * [Creating new entries](how-tos/creating-password-entries.md)
   * [Searching entries](how-tos/searching-entries.md)
   * [Manage Groups](how-tos/managing-groups.md)

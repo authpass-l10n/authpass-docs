@@ -1,2 +1,2 @@
-# Creating a new password database
+# Creating a new passwords database
 
