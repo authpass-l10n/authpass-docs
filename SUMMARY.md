@@ -12,4 +12,5 @@
   * [Creating new entries](how-tos/creating-password-entries.md)
   * [Searching entries](how-tos/searching-entries.md)
   * [Manage Groups](how-tos/managing-groups.md)
+  * [Generate a secure password](how-tos/generate-a-secure-password.md)
 
